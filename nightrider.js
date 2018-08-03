@@ -2,6 +2,7 @@ const NR_scanner_color_center = "#FF0000";
 const NR_interval_speed = 30; //lower is faster
 
 let NR_el = document.querySelector(".nightrider");
+NR_el.style.fontKerning = "none"
 let NR_base_string = NR_el.textContent;
 
 //insert string values
