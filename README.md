@@ -1,6 +1,9 @@
 # nightrider
-Demo: https://jessopb.github.io/nightrider/
+
+
 Script that adds .nightrider class to make red scanning headers
+
+- Demo: https://jessopb.github.io/nightrider/
 
 - Currently only handles one tag due to document.querySelector(".nightrider")
 
